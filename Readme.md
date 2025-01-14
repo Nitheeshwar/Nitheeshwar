@@ -25,11 +25,6 @@ Welcome to my GitHub profile! I'm a recently graduated master's student in Compu
 
 - **AWS Certified Cloud Practitioner**
 
-## 🌱 Certifications in Progress
-
-- Reinforcement Learning with TensorFlow (Coursera)
-- Google Cloud Certified – Professional Cloud Architect
-
 ## 📈 GitHub Stats
 
 ![Nitheeshwar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nitheeshwar&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
