@@ -32,7 +32,7 @@ Welcome to my GitHub profile! I'm a recently graduated master's student in Compu
 ## 🏆 Achievements
 
 - **Design Patent:** Pre-Screening and Early Detection of Eye Diseases Using Edge Computing : https://patents.vakilsearch.com/system-for-early-eye-disease-detection-using-edge-computing/202341048060
-- ** Junior rep** in ATOM robotics team 2021 - 2022 : https://atomrobotics.github.io/index.html
+- **Junior rep** in ATOM robotics team 2021 - 2022 : https://atomrobotics.github.io/index.html
 
 ## 📬 Let's Connect!
 
